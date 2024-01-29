@@ -539,6 +539,32 @@ footer {
     position: relative;
 }
 
+footer .inner h2 {
+    float: left;
+    margin: 0 120px;
+}
 
+footer .inner .address {
+    float: left;
+}
+
+footer .inner .address li:first-child {
+    padding: 15px 0px 10px;
+    font-weight: bold;
+}
+
+footer .inner .address li:last-child {
+    color: #999;
+}
+
+footer .inner .list li {
+    float: left;
+    margin-top: 15px;
+    margin-left: 80px;
+}
+
+footer .inner .list li:first-child {
+    margin-left: 350px;
+}
 
 
